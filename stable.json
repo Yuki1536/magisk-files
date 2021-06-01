@@ -6,7 +6,7 @@
     "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
   },
   "stub": {
-    "versionCode": "21",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+    "versionCode": "7",
+    "link": "https://cdn.jsdelivr.net/gh/Yuki1536/magisk-files@20.4/stub-release.apk"
   }
 }
