@@ -1,7 +1,7 @@
 {
   "magisk": {
-    "version": "23.0",
-    "versionCode": "23000",
+    "version": "20.4",
+    "versionCode": "20400",
     "link": "https://cdn.jsdelivr.net/gh/Yuki1536/magisk-files@20.4/Magisk-v20.4.zip",
     "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
   },
