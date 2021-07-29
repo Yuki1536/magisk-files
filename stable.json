@@ -2,11 +2,10 @@
   "magisk": {
     "version": "20.4",
     "versionCode": "20400",
-    "link": "https://cdn.jsdelivr.net/gh/Yuki1536/magisk-files@20.4/Magisk-v20.4.apk",
-    "note": "https://topjohnwu.github.io/Magisk/releases/23000.md"
+    "link": "https://cdn.jsdelivr.net/gh/Yuki1536/magisk-files@20.4/Magisk-v20.4.zip",
   },
   "stub": {
-    "versionCode": "7",
-    "link": "https://cdn.jsdelivr.net/gh/Yuki1536/magisk-files@20.4/stub-release.apk"
+    "versionCode": "7.5.1 (267)",
+    "link": "https://cdn.jsdelivr.net/gh/Yuki1536/magisk-files@20.4/app.apk"
   }
 }
