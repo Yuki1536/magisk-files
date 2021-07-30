@@ -4,6 +4,10 @@
     "versionCode": "20400",
     "link": "https://mockingbird.space/magisk-files/Magisk-v20.4.zip"
   },
+  "app": {
+    "versionCode": "267",
+    "link": "https://mockingbird.space/magisk-files/magisk.apk"
+  },
   "stub": {
     "version": "7.5.1",
     "versionCode": "267",
