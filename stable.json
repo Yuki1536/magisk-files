@@ -5,6 +5,7 @@
     "link": "https://mockingbird.space/magisk-files/Magisk-v20.4.zip"
   },
   "app": {
+    "version": "7.5.1",
     "versionCode": "267",
     "link": "https://mockingbird.space/magisk-files/magisk.apk"
   },
