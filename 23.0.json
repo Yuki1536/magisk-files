@@ -1,0 +1,11 @@
+{
+  "magisk": {
+    "version": "23.0",
+    "versionCode": "23000",
+    "link": "https://mockingbird.space/magisk-files/Magisk-v23.0.apk"
+  },
+  "stub": {
+    "versionCode": "21",
+    "link": "https://mockingbird.space/magisk-files/stub-23.0.apk"
+  }
+}
